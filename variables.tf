@@ -1,7 +1,7 @@
 variable "name" {
   type        = string
   description = "Name of the deployment"
-  default     = "examplehost"
+  default     = "dramml"
 }
 
 variable "environment" {
@@ -13,7 +13,7 @@ variable "environment" {
 variable "location" {
   type        = string
   description = "Location of the resources"
-  default     = "East US"
+  default     = "UK South"
 }
 
 variable "vnet_address_space" {
