@@ -1,5 +1,7 @@
 # Azure Machine Learning workspace (moderately secure network set up)
 
+Based on [Azure Terraform Quickstarts](https://github.com/Azure/terraform.git)
+
 This deployment configuration specifies an [Azure Machine Learning workspace](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace), 
 and its associated resources including Azure Key Vault, Azure Storage, Azure Application Insights and Azure Container Registry.
 
